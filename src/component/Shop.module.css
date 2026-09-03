@@ -1,0 +1,12 @@
+.shopContainer {
+    padding: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.productsGrid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 20px;
+}
